@@ -11,10 +11,10 @@ k2 团队前段时间开源了5万小时的英文数据集[Libriheavy](https://g
 
 目前我们已经收集了一些数据，正在进行对齐和整理，具体数据源如下：
 
-* [电视剧](source/tv.md)
-* [有声书](source/audio_book.md)
-* [综艺及演讲等](source/talk_show.md)
-* [电影纪录片等](source/movie.md)
+* [电视剧](source/tv.txt)
+* [有声书](source/audio_book.txt)
+* [综艺及演讲等](source/talk_show.txt)
+* [电影纪录片等](source/movie.txt)
 
 
 ## 授权形式
